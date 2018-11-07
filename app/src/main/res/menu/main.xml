@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuCurrent"
+        android:icon="@drawable/ic_location_immediately"
+        android:title="实时位置" />
+
+    <item
+        android:id="@+id/menuPoint1"
+        android:icon="@drawable/ic_location"
+        android:title="位置1" />
+
+    <item
+        android:id="@+id/menuPoint2"
+        android:icon="@drawable/ic_location"
+        android:title="位置2" />
+
+</menu>
